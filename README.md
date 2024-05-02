@@ -19,8 +19,10 @@
 
 ***HOW TO LOSE***
 - If you touch the Nautilus: GAME OVER
+  
 ***HOW TO WIN***
 - If you dodge the Nautilus 30 times: YOU WIN
+  
 ***MOTIVATION***
 I have become fascinated with the geologic timescale recently and have been studying the different periods of the Paleozoic Era. I wanted my game setting to be related to this. I chose for the protagonist to by a Trilobite, one of the primary arthropods of the Paleozoic Era. I decided for the enemy to be a Nautilus, a cool looking cephalopod. Cephalopods were the primary predators of the Ordivician Period. While the Nautilus size may be exaggerated and Trilobites may not have been direct prey I thought they were both cool organisms to work with.
 I wanted the game to be related to surviving "stages".
