@@ -7,7 +7,7 @@
 
 
 ***INSTRUCTIONS***
-- The game will begin as soon as the program is launched
+- The game will begin as soon as the program is launched (run main.py)
 - Move with the arrow keys
 - Dodge the Nautilus
     the Nautilus will move across the screen and gradually increase speed (up to a limit)
